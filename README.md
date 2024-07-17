@@ -118,7 +118,8 @@ echo  "O-RAN NIC Setting Complete!"
 * UL pointA
 ![image](https://github.com/user-attachments/assets/efeb5203-fec8-4ce6-b12e-c9e2b30f9590)
 
-**[Detail:](https://hackmd.io/@Richard-quan/BkxLE0Q5p/%2FziGxQy05S0i1TdsZaYG0HQ#OAI-CU-config-file)** -->
+> [!NOTE]  
+> **Detail**: https://hackmd.io/@Richard-quan/BkxLE0Q5p/%2FziGxQy05S0i1TdsZaYG0HQ#OAI-CU-config-file
 
 
 ## 1. Build OAI gNB
