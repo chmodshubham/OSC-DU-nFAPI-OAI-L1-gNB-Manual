@@ -1,0 +1,1 @@
+# OSC-DU-nFAPI-OAI-L1-gNB-Manual
