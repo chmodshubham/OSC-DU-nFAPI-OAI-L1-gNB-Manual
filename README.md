@@ -5,7 +5,8 @@ tags: [lab]
 ---
 
 # OSC DU nFAPI + OAI L1 gNB Manual [oai_nFAPI]
->[time=Mon, Jul 15, 2024 1:29 PM][name=陳奕全]
+
+`[time=Mon, Jul 15, 2024 1:29 PM][name=陳奕全]`
 
 ## Topology
 ![image](https://github.com/user-attachments/assets/4f5139ae-adb1-4924-bcd4-4675aea75d5f)
